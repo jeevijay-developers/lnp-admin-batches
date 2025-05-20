@@ -1,0 +1,3 @@
+# NEXT_PUBLIC_API_URL=https://teacher-backend-fxy3.onrender.com
+# NEXT_PUBLIC_API_URL_LOCAL=http://localhost:8080/api/checkout
+NEXT_PUBLIC_BASE_URL=https://teacher-backend-fxy3.onrender.com
